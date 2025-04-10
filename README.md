@@ -83,7 +83,7 @@ npm run build
 ## 🌐 Deployment
 
 This project is deployed on **Vercel**  
-🔗 **Live Demo:** [Click Here](https:/shopping-website-dun-eight.vercel.app)
+🔗 **Live Demo:** [Click Here](https://shopping-website-dun-eight.vercel.app/)
 
 ---
 
