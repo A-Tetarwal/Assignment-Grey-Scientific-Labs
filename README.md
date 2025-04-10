@@ -82,8 +82,8 @@ npm run build
 
 ## 🌐 Deployment
 
-This project is deployed on **[Vercel / Netlify]**  
-🔗 **Live Demo:** [Click Here](#) <!-- Replace this with your deployed URL -->
+This project is deployed on **Vercel**  
+🔗 **Live Demo:** [Click Here](shopping-website-dun-eight.vercel.app)
 
 ---
 
